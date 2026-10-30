@@ -1,18 +1,19 @@
 ![image](https://github.com/user-attachments/assets/2437f93b-30b3-4a07-8527-f1b23dae7fd2)
 
 
-# MechvibesDX - The next version of Mechvibes
+# Mechvibes Legacy (Electron)
 
+This is the original Electron version of Mechvibes. It is no longer maintained.
 
-I've been working on **MechvibesDX** - a complete rewrite of Mechvibes with significant improvements to performance, compatibility, and user experience. You can check it out at the new repository: [mechvibes-dx](https://github.com/hainguyents13/mechvibes-dx)
+**The official Mechvibes app now lives at [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes).** It is a complete rewrite in Rust that replaces this version. Get it from its [latest release](https://github.com/hainguyents13/mechvibes-electron/releases/latest).
 
-## What's happening
+## What changed
 
--   **Current repo**: Will become legacy once MechvibesDX is stable
--   **New repo**: [mechvibes-dx](https://github.com/hainguyents13/mechvibes-dx) - active development
--   **Future**: When MechvibesDX reaches v1.0, it will become the main Mechvibes
+-   **Official app**: [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes), formerly `mechvibes-dx`, in active development.
+-   **This repository**: renamed from `mechvibes` to `mechvibes-electron`. The v2.3.x releases stay here and can still be downloaded from [Releases](https://github.com/hainguyents13/mechvibes-electron/releases).
+-   **Issues and feature requests**: please open them in the [official repository](https://github.com/hainguyents13/mechvibes/issues).
 
-## Major improvements in MechvibesDX
+## Why switch to the official app
 
 -   **Performance**: Completely rewritten audio engine for faster soundpack loading
 -   **Audio Events**: Support for both keyboard (keydown/keyup) and mouse (button press/release) sounds with extended button support
@@ -21,23 +22,7 @@ I've been working on **MechvibesDX** - a complete rewrite of Mechvibes with sign
 -   **Compatibility**: Much better support for existing soundpacks from the community
 -   **Soundpack Management**: Easy soundpack installation - import via modal or copy to folder and refresh, no app restart required
 -   **Customization**: Modern UI design with extensive theming options, custom backgrounds, logo customization
--   **Organization**: Separate keyboard/mouse soundpack folders, better file
 -   **Architecture**: Built with Rust and modern web technologies
-
-## Try it out
-
-Head over to [mechvibes-dx](https://github.com/hainguyents13/mechvibes-dx) to:
-
--   Download the latest build and test new features
--   Migrate your soundpacks easily with the new migration tools
--   Customize the interface with themes, backgrounds, and logo options
--   Report issues or suggest improvements
-
-I'm working towards a stable v1.0 release, and your feedback helps make MechvibesDX better. The migration process for existing soundpacks is much smoother now.
-
-**Check out MechvibesDX**: https://github.com/hainguyents13/mechvibes-dx
-
-_This repository will remain available during the transition period._
 
 
 ---
@@ -60,7 +45,7 @@ _This repository will remain available during the transition period._
 > Mechvibes isn’t just an app, it’s a way to bring the joy of mechanical keyboards to every environment, without compromising on your surroundings.
 
 ## How to Get Started
-- Download the app from the [Releases page](https://github.com/hainguyents13/mechvibes/releases/latest)
+- Download the app from the [Releases page](https://github.com/hainguyents13/mechvibes-electron/releases/latest)
 - Run it.
 - Enjoy!
 
@@ -89,6 +74,6 @@ Mechvibes has grown far beyond its initial scope, thanks to the incredible suppo
 A heartfelt thank you to everyone who has helped Mechvibes evolve - you’ve truly made this project special ❤️
 
 ### 🎖️ Contributors:
-<a href="https://github.com/hainguyents13/mechvibes/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hainguyents13/mechvibes&anon=1" height="30" />
+<a href="https://github.com/hainguyents13/mechvibes-electron/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=hainguyents13/mechvibes-electron&anon=1" height="30" />
 </a>
