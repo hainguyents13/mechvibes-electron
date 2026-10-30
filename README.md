@@ -5,7 +5,7 @@
 
 This is the original Electron version of Mechvibes. It is no longer maintained.
 
-**The official Mechvibes app now lives at [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes).** It is a complete rewrite in Rust that replaces this version. Get it from its [latest release](https://github.com/hainguyents13/mechvibes-electron/releases/latest).
+**The official Mechvibes app now lives at [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes).** It is a complete rewrite in Rust that replaces this version. Get it from its [latest release](https://github.com/hainguyents13/mechvibes/releases/latest).
 
 ## What changed
 
